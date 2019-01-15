@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC:400,700|Palanquin+Dark');
+@font-face {
+    font-family: 'Candara';
+    src: url('../fonts/Candara.eot');
+    src: url('../fonts/Candara.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Candara.woff') format('woff'), /* Modern Browsers */ 
+    url('../fonts/Candara.ttf') format('truetype'), /* Safari, Android, iOS */ 
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Candara';
+    src: url('../fonts/Candarab.eot');
+    src: url('../fonts/Candarab.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Candarab.woff') format('woff'), /* Modern Browsers */ 
+    url('../fonts/Candarab.ttf') format('truetype'), /* Safari, Android, iOS */ 
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Candara';
+    src: url('../fonts/Candarai.eot');
+    src: url('../fonts/Candarai.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Candarai.woff') format('woff'), /* Modern Browsers */ 
+    url('../fonts/Candarai.ttf') format('truetype'), /* Safari, Android, iOS */ 
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Candara';
+    src: url('../fonts/Candaraz.eot');
+    src: url('../fonts/Candaraz.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Candaraz.woff') format('woff'), /* Modern Browsers */ 
+    url('../fonts/Candaraz.ttf') format('truetype'), /* Safari, Android, iOS */ 
+    font-weight: 700;
+    font-style: italic;
+}
